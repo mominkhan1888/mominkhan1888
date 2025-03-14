@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mominkhan1888
-- 👀 I’m interested in AI, DataScience, Python.
-- 🌱 I’m currently learning AI, Machine Learning, Web Development.
+- 👀 I’m interested in AI based Web develpoment.
+- 🌱 I’m currently learning AI, Web Development.
 
 
 <!---
